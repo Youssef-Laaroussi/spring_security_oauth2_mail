@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a25ea9d-d925-4773-a5b6-ca8a70330aa3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6a25ea9d-d925-4773-a5b6-ca8a70330aa3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +47,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.SpringSecurityApplication.executor": "Run",
     "git-widget-placeholder": "youssef-laaroussi",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/youssef/Downloads/spring security(1)",
@@ -88,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756307092010</updated>
       <workItem from="1756307096104" duration="1425000" />
-      <workItem from="1756308588182" duration="2129000" />
+      <workItem from="1756308588182" duration="2551000" />
     </task>
     <servers />
   </component>
