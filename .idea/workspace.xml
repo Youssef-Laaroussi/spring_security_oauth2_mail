@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a25ea9d-d925-4773-a5b6-ca8a70330aa3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-security/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +93,7 @@
       <updated>1756307092010</updated>
       <workItem from="1756307096104" duration="1425000" />
       <workItem from="1756308588182" duration="2551000" />
-      <workItem from="1756402973139" duration="3633000" />
+      <workItem from="1756402973139" duration="4993000" />
     </task>
     <servers />
   </component>
