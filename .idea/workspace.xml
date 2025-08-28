@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;Youssef-Laaroussi&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:Youssef-Laaroussi/spring_security_oauth2_mail.git",
-    "accountId": "8f394ea7-4cd8-4cc7-8792-c864b1a9e85c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Youssef-Laaroussi/spring_security_oauth2_mail.git&quot;,
+    &quot;accountId&quot;: &quot;8f394ea7-4cd8-4cc7-8792-c864b1a9e85c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
