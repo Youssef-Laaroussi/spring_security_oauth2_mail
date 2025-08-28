@@ -1,0 +1,59 @@
+spring:
+  application:
+    name: spring-security
+
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: password
+
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+
+  h2:
+    console:
+      enabled: true
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: your-email@gmail.com
+    password: your-app-password
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: your-google-client-id
+            client-secret: your-google-client-secret
+            scope:
+              - email
+              - profile
+          github:
+            client-id: your-github-client-id
+            client-secret: your-github-client-secret
+            scope:
+              - user:email
+              - read:user
+
+app:
+  jwt:
+    secret: mySecretKey12345678901234567890123456789012345678901234567890
+    expiration: 86400000 # 24 hours
+
+  frontend:
+    url: http://localhost:4200
+
+server:
+  port: 8080
