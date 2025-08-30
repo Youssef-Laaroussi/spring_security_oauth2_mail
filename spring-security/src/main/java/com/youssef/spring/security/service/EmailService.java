@@ -12,37 +12,31 @@ public class EmailService {
 
     private final JavaMailSender mailSender;
 
+
     @Value("${app.frontend.url}")
     private String frontendUrl;
 
 
-    public void sendEmailVerification(String email,String token){
+
+    public void sendEmailVerification(String email, String token) {
         SimpleMailMessage message = new SimpleMailMessage();
         message.setTo(email);
         message.setSubject("Email Verification");
-        message.setText("Please click the following link to verify your email:"+
-                frontendUrl+"/verify-email?token="+token);
-
+        message.setText("Please click the following link to verify your email: " +
+                frontendUrl + "/verify-email?token=" + token);
         mailSender.send(message);
     }
 
-    public void sendPasswordRest(String email,String token){
+
+
+    public void sendPasswordReset(String email, String token) {
         SimpleMailMessage message = new SimpleMailMessage();
         message.setTo(email);
         message.setSubject("Password Reset");
-        message.setText("Please click the following link to reset your password:"+
-                frontendUrl+"/reset-password?token="+token);
-
+        message.setText("Please click the following link to reset your password: " +
+                frontendUrl + "/reset-password?token=" + token);
         mailSender.send(message);
     }
-
-
-
-
-
-
-
-
 
 
 
