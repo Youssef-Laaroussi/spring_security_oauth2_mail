@@ -1,4 +1,4 @@
-package com.youssef.spring.security.util;
+package com.youssef.spring.security.config;
 
 import com.youssef.spring.security.service.UserService;
 import lombok.RequiredArgsConstructor;
