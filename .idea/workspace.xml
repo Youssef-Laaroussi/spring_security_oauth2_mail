@@ -24,12 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Youssef-Laaroussi&quot;
-  }
-}</component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;git@github.com:Youssef-Laaroussi/spring_security_oauth2_mail.git&quot;,
@@ -85,6 +82,9 @@
       </set>
     </attachedChunks>
   </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6a25ea9d-d925-4773-a5b6-ca8a70330aa3" name="Changes" comment="" />
@@ -96,6 +96,7 @@
       <workItem from="1756308588182" duration="2551000" />
       <workItem from="1756402973139" duration="4993000" />
       <workItem from="1756487367867" duration="2762000" />
+      <workItem from="1756542378406" duration="10518000" />
     </task>
     <servers />
   </component>
