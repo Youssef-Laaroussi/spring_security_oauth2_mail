@@ -6,8 +6,8 @@ import io.jsonwebtoken.JwtException;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;
 import lombok.Data;
-import lombok.Value;
 import org.hibernate.annotations.Comment;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.websocket.servlet.TomcatWebSocketServletWebServerCustomizer;
 import org.springframework.stereotype.Component;
 
