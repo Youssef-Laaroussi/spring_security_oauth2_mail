@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a25ea9d-d925-4773-a5b6-ca8a70330aa3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/src/main/java/com/youssef/spring/security/config/OAuth2AuthenticationSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/src/main/java/com/youssef/spring/security/config/OAuth2AuthenticationSuccessHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/src/main/java/com/youssef/spring/security/service/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/src/main/java/com/youssef/spring/security/service/EmailService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/src/main/java/com/youssef/spring/security/util/JwtUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/src/main/java/com/youssef/spring/security/util/JwtUtil.java" afterDir="false" />
-    </list>
+    <list default="true" id="6a25ea9d-d925-4773-a5b6-ca8a70330aa3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +102,7 @@
       <workItem from="1756402973139" duration="4993000" />
       <workItem from="1756487367867" duration="2762000" />
       <workItem from="1756542378406" duration="11201000" />
-      <workItem from="1756663474352" duration="1987000" />
+      <workItem from="1756663474352" duration="2658000" />
     </task>
     <servers />
   </component>
